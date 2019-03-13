@@ -1,0 +1,75 @@
+2018-11-13 20:30:17 INFO  TestNG-tests-1 (base.WebDriverBase:88) - Property files are loaded sucessfully
+"2018-11-13 20:30:17 INFO  TestNG-tests-2 (base.WebDriverBase:88) - Property files are loaded sucessfully
+"2018-11-13 20:30:17 INFO  TestNG-tests-1 (base.WebDriverBase:91) - URL is : http://10.16.6.32:4002/
+"2018-11-13 20:30:17 INFO  TestNG-tests-2 (base.WebDriverBase:91) - URL is : http://10.16.6.32:4002/
+"2018-11-13 20:30:17 INFO  TestNG-tests-1 (base.WebDriverBase:94) - User name is : autuser
+"2018-11-13 20:30:17 INFO  TestNG-tests-2 (base.WebDriverBase:94) - User name is : autuser
+"2018-11-13 20:30:17 INFO  TestNG-tests-2 (base.WebDriverBase:97) - Password is : user@12345
+"2018-11-13 20:30:17 INFO  TestNG-tests-1 (base.WebDriverBase:97) - Password is : user@12345
+"2018-11-13 20:30:17 INFO  TestNG-tests-2 (base.WebDriverBase:100) - Module is : Access
+"2018-11-13 20:30:17 INFO  TestNG-tests-1 (base.WebDriverBase:100) - Module is : Access
+"2018-11-13 20:30:17 INFO  TestNG-tests-1 (base.WebDriverBase:103) - User name is : autrecuser
+"2018-11-13 20:30:17 INFO  TestNG-tests-2 (base.WebDriverBase:103) - User name is : autrecuser
+"2018-11-13 20:30:17 INFO  TestNG-tests-1 (base.WebDriverBase:106) - Password is : user@12345
+"2018-11-13 20:30:17 INFO  TestNG-tests-2 (base.WebDriverBase:106) - Password is : user@12345
+"2018-11-13 20:30:17 INFO  TestNG-tests-1 (base.WebDriverBase:116) - Loading Properties
+"2018-11-13 20:30:17 INFO  TestNG-tests-2 (base.WebDriverBase:116) - Loading Properties
+"2018-11-13 20:30:43 INFO  TestNG-tests-1 (objects.LoginPageObjects:34) - User Name Entered
+"2018-11-13 20:30:43 INFO  TestNG-tests-1 (actions.LoginPageActions:31) - Successfully entered user name as : autuser
+"2018-11-13 20:30:43 INFO  TestNG-tests-2 (objects.LoginPageObjects:34) - User Name Entered
+"2018-11-13 20:30:43 INFO  TestNG-tests-2 (actions.LoginPageActions:31) - Successfully entered user name as : autrecuser
+"2018-11-13 20:30:43 INFO  TestNG-tests-1 (objects.LoginPageObjects:48) - Password Entered
+"2018-11-13 20:30:43 INFO  TestNG-tests-1 (actions.LoginPageActions:34) - Successfully entered password as : user@12345
+"2018-11-13 20:30:43 INFO  TestNG-tests-2 (objects.LoginPageObjects:48) - Password Entered
+"2018-11-13 20:30:43 INFO  TestNG-tests-2 (actions.LoginPageActions:34) - Successfully entered password as : user@12345
+"2018-11-13 20:30:44 INFO  TestNG-tests-2 (objects.LoginPageObjects:63) - Selected module name
+"2018-11-13 20:30:44 INFO  TestNG-tests-2 (actions.LoginPageActions:37) - Successfully selected module name as : Access
+"2018-11-13 20:30:44 INFO  TestNG-tests-1 (objects.LoginPageObjects:63) - Selected module name
+"2018-11-13 20:30:44 INFO  TestNG-tests-1 (actions.LoginPageActions:37) - Successfully selected module name as : Access
+"2018-11-13 20:30:48 INFO  TestNG-tests-2 (objects.LoginPageObjects:77) - Clicked on login button
+"2018-11-13 20:30:48 INFO  TestNG-tests-2 (actions.LoginPageActions:42) - Clicked on login button
+"2018-11-13 20:30:48 INFO  TestNG-tests-1 (objects.LoginPageObjects:77) - Clicked on login button
+"2018-11-13 20:30:48 INFO  TestNG-tests-1 (actions.LoginPageActions:42) - Clicked on login button
+"2018-11-13 20:30:48 INFO  TestNG-tests-2 (base.WebDriverActions:29) - Switched to child widnow
+"2018-11-13 20:30:48 INFO  TestNG-tests-2 (actions.LoginPageActions:45) - Switched to current window
+"2018-11-13 20:30:48 INFO  TestNG-tests-1 (base.WebDriverActions:29) - Switched to child widnow
+"2018-11-13 20:30:48 INFO  TestNG-tests-1 (actions.LoginPageActions:45) - Switched to current window
+"2018-11-13 20:30:48 INFO  TestNG-tests-2 (base.WebDriverActions:37) - Switched to top frame
+"2018-11-13 20:30:48 INFO  TestNG-tests-2 (actions.LoginPageActions:48) - Switched to Top frame
+"2018-11-13 20:30:48 INFO  TestNG-tests-1 (base.WebDriverActions:37) - Switched to top frame
+"2018-11-13 20:30:48 INFO  TestNG-tests-1 (actions.LoginPageActions:48) - Switched to Top frame
+"2018-11-13 20:30:49 INFO  TestNG-tests-2 (actions.LoginPageActions:51) - Successfully logged in to Application
+"2018-11-13 20:30:49 INFO  TestNG-tests-1 (actions.LoginPageActions:51) - Successfully logged in to Application
+"2018-11-13 20:30:49 INFO  TestNG-tests-2 (base.WebDriverActions:29) - Switched to child widnow
+"2018-11-13 20:30:49 INFO  TestNG-tests-2 (actions.OrderListPageActions:27) - Successfully Switched to current window
+"2018-11-13 20:30:49 INFO  TestNG-tests-1 (base.WebDriverActions:29) - Switched to child widnow
+"2018-11-13 20:30:49 INFO  TestNG-tests-1 (actions.OrderListPageActions:27) - Successfully Switched to current window
+"2018-11-13 20:30:49 INFO  TestNG-tests-2 (base.WebDriverActions:37) - Switched to top frame
+"2018-11-13 20:30:49 INFO  TestNG-tests-2 (actions.OrderListPageActions:30) - Successfully Switched to top frame
+"2018-11-13 20:30:49 INFO  TestNG-tests-1 (base.WebDriverActions:37) - Switched to top frame
+"2018-11-13 20:30:49 INFO  TestNG-tests-1 (actions.OrderListPageActions:30) - Successfully Switched to top frame
+"2018-11-13 20:30:50 INFO  TestNG-tests-2 (objects.OrderListPageObjects:32) - Clicked on logout link
+"2018-11-13 20:30:50 INFO  TestNG-tests-2 (actions.OrderListPageActions:33) - Successfully clicked on logout button
+"2018-11-13 20:30:50 INFO  TestNG-tests-1 (objects.OrderListPageObjects:32) - Clicked on logout link
+"2018-11-13 20:30:50 INFO  TestNG-tests-1 (actions.OrderListPageActions:33) - Successfully clicked on logout button
+"2018-11-13 20:30:51 INFO  TestNG-tests-2 (base.WebDriverBase:178) - Quit the browser
+"2018-11-13 20:30:51 INFO  TestNG-tests-1 (base.WebDriverBase:178) - Quit the browser
+"2018-11-14 11:09:27 INFO  TestNG-tests-2 (base.WebDriverBase:88) - Property files are loaded sucessfully
+"2018-11-14 11:09:27 INFO  TestNG-tests-1 (base.WebDriverBase:88) - Property files are loaded sucessfully
+"2018-11-14 11:09:27 INFO  TestNG-tests-2 (base.WebDriverBase:91) - URL is : http://10.16.6.32:4002/
+"2018-11-14 11:09:27 INFO  TestNG-tests-2 (base.WebDriverBase:94) - User name is : autuser
+"2018-11-14 11:09:27 INFO  TestNG-tests-2 (base.WebDriverBase:97) - Password is : user@12345
+"2018-11-14 11:09:27 INFO  TestNG-tests-2 (base.WebDriverBase:100) - Module is : Access
+"2018-11-14 11:09:27 INFO  TestNG-tests-2 (base.WebDriverBase:103) - User name is : autrecuser
+"2018-11-14 11:09:27 INFO  TestNG-tests-1 (base.WebDriverBase:91) - URL is : http://10.16.6.32:4002/
+"2018-11-14 11:09:27 INFO  TestNG-tests-2 (base.WebDriverBase:106) - Password is : user@12345
+"2018-11-14 11:09:27 INFO  TestNG-tests-1 (base.WebDriverBase:94) - User name is : autuser
+"2018-11-14 11:09:27 INFO  TestNG-tests-2 (base.WebDriverBase:116) - Loading Properties
+"2018-11-14 11:09:27 INFO  TestNG-tests-1 (base.WebDriverBase:97) - Password is : user@12345
+"2018-11-14 11:09:27 INFO  TestNG-tests-1 (base.WebDriverBase:100) - Module is : Access
+"2018-11-14 11:09:27 INFO  TestNG-tests-1 (base.WebDriverBase:103) - User name is : autrecuser
+"2018-11-14 11:09:27 INFO  TestNG-tests-1 (base.WebDriverBase:106) - Password is : user@12345
+"2018-11-14 11:09:27 INFO  TestNG-tests-1 (base.WebDriverBase:116) - Loading Properties
+"2018-11-14 11:10:23 INFO  TestNG-tests-2 (base.WebDriverBase:178) - Quit the browser
+"2018-11-14 11:10:29 INFO  TestNG-tests-1 (base.WebDriverBase:178) - Quit the browser
+"

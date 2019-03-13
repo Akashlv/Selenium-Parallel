@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="com.synchronoss.inow.common.util.CustomReport"/>
+    <listener class-name="com.synchronoss.inow.common.util.CustomSummaryReport"/>
+  </listeners>
+  <test thread-count="5" name="ASR RECEIVE(failed)" parallel="tests">
+    <parameter name="browserName" value="Chrome"/>
+    <classes>
+      <class name="com.synchronoss.inow.vfo.testscripts.VFO_INOW_TEST_002">
+        <methods>
+          <include name="initTest"/>
+          <include name="SCRIPT_VFO_INOW_TEST_002"/>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- com.synchronoss.inow.vfo.testscripts.VFO_INOW_TEST_002 -->
+    </classes>
+  </test> <!-- ASR RECEIVE(failed) -->
+  <test thread-count="5" name="ASR SEND(failed)" parallel="tests">
+    <parameter name="browserName" value="Chrome"/>
+    <classes>
+      <class name="com.synchronoss.inow.vfo.testscripts.VFO_INOW_TEST_001">
+        <methods>
+          <include name="initTest"/>
+          <include name="SCRIPT_VFO_INOW_TEST_001"/>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- com.synchronoss.inow.vfo.testscripts.VFO_INOW_TEST_001 -->
+    </classes>
+  </test> <!-- ASR SEND(failed) -->
+</suite> <!-- Failed suite [Suite] -->
